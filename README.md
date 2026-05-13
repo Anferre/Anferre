@@ -27,16 +27,6 @@ Cloud • DevOps • Kubernetes • Terraform • AI
 
 # 🛠️ Stack de Tecnologias
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,jenkins,nodejs,bash,vscode" />
