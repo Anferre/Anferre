@@ -19,6 +19,7 @@ Profissional com quase 20 anos de experiência na área de Telecomunicações, a
 Atualmente em transição e evolução para a área de Cloud Computing, DevOps e Engenharia de Plataforma, desenvolvendo projetos práticos com AWS, Terraform, Kubernetes, Docker, Observability e automação de infraestrutura.
 
 🎓 Estudante de Tecnologia pela Universidade Federal Fluminense, apaixonado por:
+![UFF](https://img.shields.io/badge/UFF-Universidade%20Federal%20Fluminense-005AA9?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 - ☁️ Cloud Computing
 - ⚙️ DevOps & Automação
@@ -66,7 +67,6 @@ Busco continuamente aprendizado, certificações e projetos práticos voltados p
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anferre&layout=compact&theme=tokyonight"/>
 
-![UFF](https://img.shields.io/badge/UFF-Universidade%20Federal%20Fluminense-005AA9?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 </p>
 
