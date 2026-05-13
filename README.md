@@ -59,16 +59,15 @@ Busco continuamente aprendizado, certificações e projetos práticos voltados p
 
 ---
 
-# 📈 GitHub Stats
+📊 Estatísticas GitHub
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anferre&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anferre&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anferre&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anferre&layout=compact&theme=tokyonight&hide_border=true"/>
 
-
-</p>
+</div>
 
 ---
 
