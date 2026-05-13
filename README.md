@@ -12,16 +12,25 @@ Cloud • DevOps • Kubernetes • Terraform • AI
 
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 🚀  Sobre minha trajetória
 
-🎓 Estudante de Tecnologia apaixonado por:
+Profissional com quase 20 anos de experiência na área de Telecomunicações, atuando principalmente com transmissão de dados e infraestrutura tecnológica.
+
+Atualmente em transição e evolução para a área de Cloud Computing, DevOps e Engenharia de Plataforma, desenvolvendo projetos práticos com AWS, Terraform, Kubernetes, Docker, Observability e automação de infraestrutura.
+
+🎓 Estudante de Tecnologia pela Universidade Federal Fluminense, apaixonado por:
 
 - ☁️ Cloud Computing
-- 🐳 Containers & Kubernetes
 - ⚙️ DevOps & Automação
+- 🐳 Containers & Kubernetes
 - 🧠 Inteligência Artificial
+- 🔄 CI/CD com Pipeline
 - 📊 Data Engineering
 - 🔐 Observability
+- 🤖 Chatbots e Inteligência Artificial
+- 📈 ETL com AWS Glue e Athena
+
+Busco continuamente aprendizado, certificações e projetos práticos voltados para Cloud, DevOps, SRE e AI Engineering.
 
 ---
 
@@ -56,6 +65,8 @@ Cloud • DevOps • Kubernetes • Terraform • AI
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anferre&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anferre&layout=compact&theme=tokyonight"/>
+
+![UFF](https://img.shields.io/badge/UFF-Universidade%20Federal%20Fluminense-005AA9?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 </p>
 
